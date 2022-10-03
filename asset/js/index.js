@@ -17,14 +17,14 @@ let scorePageEl = document.querySelector("#score-page");
 
 let clockEl = document.querySelector(".clockr");
 let second = 100;
-let cron;
+let countIn;
 function startClockr() {
     pause();
-    cron = setInterval(() => { clockr(); }, 1000);
+    countIn = setInterval(() => { clockr(); }, 1000);
 }
 
 function pause() {
-    clearInterval(cron);
+    clearInterval(countIn);
 }
 
 function reset() {
