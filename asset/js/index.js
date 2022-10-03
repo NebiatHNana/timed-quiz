@@ -34,7 +34,7 @@ function reset() {
 
 
 function clockr() {
-    if ((second -= 1) == 0 || second < 0) {
+    if ((second = second-1) == 0 || second < 0) {
         second = 0;
         window.alert("You ran out of clock! Try again")
         resetState();
