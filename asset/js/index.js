@@ -13,8 +13,6 @@ let finishEl = document.querySelector("#finish-page");
 let text2 = document.querySelector("#text2");
 let scorePageEl = document.querySelector("#score-page");
 
-
-
 let clockEl = document.querySelector(".clockr");
 let second = 100;
 let countIn;
