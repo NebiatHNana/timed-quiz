@@ -8,4 +8,4 @@
 
 [**_Website Display_**](https://nebiathnana.github.io/timed-quiz/)
 
-Screen Shot 2022-10-04 at 8.55.57 PM.png
+![Screen Shot 2022-10-04 at 8 55 57 PM](https://user-images.githubusercontent.com/104470467/193957789-6de2e1b1-f957-4137-baac-5022f6a241e1.png)
